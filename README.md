@@ -5,7 +5,7 @@
 <p align="center">Welcome to the PopMov project!</p>
 <p align="center">This application fetches and displays popular movies using The Movie Database (TMDb) API.</p>
 <p align="center">It's developed using <strong>React</strong>, a popular JavaScript library for building user interfaces, especially single-page applications where you need a fast and interactive user experience</p>
-<p align="center"><strong>Node.js</strong> for the server and <strong>HTML, CSS, and JavaScript</strong> for the frontend.</p>
+<p align="center"><strong>Node.js</strong> for the backend and <strong>HTML, CSS, and JavaScript</strong> for the frontend.</p>
 
 ***
 
