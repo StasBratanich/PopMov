@@ -4,7 +4,7 @@ const cors = require("cors");
 const app = express();
 const PORT = 3000;
 
-const apiKey = "b947235f7bf13a6bcad6afa6e8e53d2d";
+const apiKey = "API_KEY";
 const baseUrl = "https://api.themoviedb.org/3/movie/popular";
 const numberOfPages = 5;
 let popularMovies = [];
